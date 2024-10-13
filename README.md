@@ -7,6 +7,7 @@ It is a fully functional e-commerce website built using React.js, Redux, React R
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [API's](#API's) 
 
 ## Features
  
@@ -61,3 +62,15 @@ npm start
 ```
 
 This will launch the application on a local development server, typically at [http://localhost:3000](http://localhost:3000).
+
+## API's:
+#### 1. api for creating new product.
+
+**`http://localhost:5500/api/newproduct`**
+
+#### 2. api for fetching products.
+**`http://localhost:5500/api/allproducts`**
+
+## Installation.
+- 1. clone the server file to local machine.
+- 2. Install all the dependencies.
